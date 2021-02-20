@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kirdi blog"
-title_separator          : "-"
-subtitle                 : "kirdi dev blog"# site tagline that appears below site title in masthead
-name                     : ""
+title                    : "기르디의 개발 블로그"
+title_separator          : "="
+subtitle                 : "뭐든 만들자"# site tagline that appears below site title in masthead
+name                     : "기르디여"
 description              : "나의 개발 블로그여 잡다하게 짜논 소스도 있을 것이고 하다 만것도 있것지"
 url                      : "https://kirdi-1206.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "kirdi"
+  name             : "기르디애오"
   avatar           : "https://avatars1.githubusercontent.com/u/32233934?s=400&u=e6276bc2c39bf59af1a7dfa5ed3d53a2b76be493&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "deving"
-  location         : "korea"
+  bio              : "개발중이애오"
+  location         : "대한민국"
   email            : "flagman1211@gmail.com"
   links:
     - label: "Email"
