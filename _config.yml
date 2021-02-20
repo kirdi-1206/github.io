@@ -99,7 +99,7 @@ author:
   location         : "대한민국"
   email            : "flagman1211@gmail.com"
   links:
-    - label: "Email"
+    - label: "이메일보내기"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
