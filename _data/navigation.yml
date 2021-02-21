@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Categories"
+    url: /categories/
+  - title: "내생각"
+    url: /categories/내생각/
+  - title: "Project"
+    url: /project/
+  - title: "블로그 소개"
+    url: /about/
