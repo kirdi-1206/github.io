@@ -1,7 +1,8 @@
 ---
 title: "나의 첫 글"
 date: 2021-02-20 22:00
-categories: 내생각 첫업로드
+categories: 내생각 
+tags: 첫업로드
 ---
 
 
