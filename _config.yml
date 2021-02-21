@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "기르디의 개발 블로그"
 title_separator          : "="
 subtitle                 : "뭐든 만들자"# site tagline that appears below site title in masthead
-name                     : "기르디여"
+name                     : "kirdi"
 description              : "나의 개발 블로그여 잡다하게 짜논 소스도 있을 것이고 하다 만것도 있것지"
 url                      : "https://kirdi-1206.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -212,13 +212,13 @@ paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+# # Plugins (previously gems:)
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
